@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AvaIruk
 - 👀 I’m interested in Data science and Data Analytics 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently Studying Master @Data science in London
+
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me: Ava.Iruk@gmail.com
 
