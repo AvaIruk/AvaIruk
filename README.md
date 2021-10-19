@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvaIruk
+- 👋 Hi, I’m @Ava
 - 👀 I’m interested in Data science and Data Analytics 
 - 🌱 I’m currently Studying Master @Data science in London
 
